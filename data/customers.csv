@@ -1,101 +1,101 @@
 customer_id,name,signup_date,tier,status,industry,region
-CUST_0001,Acme Corp 1,2023-07-31,Enterprise,Active,Manufacturing,Asia Pacific
-CUST_0002,TechStart Inc 2,2024-01-24,Free,Churned,Manufacturing,North America
-CUST_0003,Global Solutions 3,2023-07-04,Basic,Active,Finance,Latin America
-CUST_0004,DataFlow Systems 4,2023-11-14,Free,Active,Healthcare,Latin America
-CUST_0005,CloudNine Ltd 5,2023-12-18,Pro,Active,Manufacturing,Asia Pacific
-CUST_0006,InnovateCo 6,2023-01-06,Enterprise,Active,Technology,Asia Pacific
-CUST_0007,Quantum Analytics 7,2024-06-05,Basic,Active,Manufacturing,Europe
-CUST_0008,Vertex Technologies 8,2024-08-18,Basic,Active,Retail,Latin America
-CUST_0009,Fusion Dynamics 9,2024-06-27,Basic,Active,Finance,North America
-CUST_0010,Alpha Ventures 10,2023-08-09,Enterprise,Active,Retail,North America
-CUST_0011,Beta Systems 11,2024-11-01,Free,Active,Technology,Asia Pacific
-CUST_0012,Gamma Industries 12,2024-09-02,Basic,Active,Healthcare,Asia Pacific
-CUST_0013,Delta Innovations 13,2023-02-17,Free,Active,Retail,North America
-CUST_0014,Epsilon Corp 14,2023-03-12,Free,Active,Finance,Asia Pacific
-CUST_0015,Zeta Solutions 15,2024-10-20,Pro,Active,Retail,Asia Pacific
-CUST_0016,Eta Technologies 16,2023-08-17,Basic,Active,Finance,Asia Pacific
-CUST_0017,Theta Analytics 17,2024-02-20,Enterprise,Active,Manufacturing,Asia Pacific
-CUST_0018,Iota Systems 18,2023-03-02,Pro,Active,Finance,Latin America
-CUST_0019,Kappa Corp 19,2024-04-29,Pro,Active,Manufacturing,North America
-CUST_0020,Lambda Innovations 20,2024-11-11,Free,Active,Retail,Asia Pacific
-CUST_0021,Vertex Technologies 21,2023-04-20,Enterprise,Active,Finance,Asia Pacific
-CUST_0022,Kappa Corp 22,2024-04-23,Pro,Active,Retail,Asia Pacific
-CUST_0023,Zeta Solutions 23,2023-03-09,Basic,Active,Manufacturing,Latin America
-CUST_0024,DataFlow Systems 24,2023-03-10,Enterprise,Active,Healthcare,Europe
-CUST_0025,Fusion Dynamics 25,2024-01-14,Free,Active,Manufacturing,Europe
-CUST_0026,CloudNine Ltd 26,2023-12-18,Enterprise,Active,Technology,Asia Pacific
-CUST_0027,TechStart Inc 27,2023-02-18,Enterprise,Active,Retail,Asia Pacific
-CUST_0028,Eta Technologies 28,2023-01-14,Free,Active,Finance,Asia Pacific
-CUST_0029,Global Solutions 29,2023-04-30,Free,Churned,Retail,North America
-CUST_0030,Acme Corp 30,2023-05-09,Pro,Active,Retail,Europe
-CUST_0031,Global Solutions 31,2024-02-12,Pro,Active,Finance,Asia Pacific
-CUST_0032,Beta Systems 32,2024-01-12,Enterprise,Churned,Technology,Asia Pacific
-CUST_0033,Lambda Innovations 33,2024-07-05,Enterprise,Active,Retail,Europe
-CUST_0034,DataFlow Systems 34,2023-07-18,Basic,Churned,Retail,Asia Pacific
-CUST_0035,Delta Innovations 35,2024-10-23,Basic,Active,Healthcare,Latin America
-CUST_0036,Zeta Solutions 36,2024-11-08,Free,Churned,Retail,Europe
-CUST_0037,Alpha Ventures 37,2024-07-21,Pro,Active,Finance,Latin America
-CUST_0038,Beta Systems 38,2023-12-21,Enterprise,Active,Healthcare,Latin America
-CUST_0039,Quantum Analytics 39,2024-05-19,Basic,Churned,Finance,Asia Pacific
-CUST_0040,Global Solutions 40,2024-02-22,Pro,Active,Healthcare,Latin America
-CUST_0041,Quantum Analytics 41,2024-06-04,Pro,Active,Retail,Latin America
-CUST_0042,Fusion Dynamics 42,2024-06-10,Pro,Active,Manufacturing,Asia Pacific
-CUST_0043,Global Solutions 43,2024-10-08,Enterprise,Churned,Healthcare,Europe
-CUST_0044,Fusion Dynamics 44,2023-10-03,Pro,Active,Finance,Europe
-CUST_0045,Quantum Analytics 45,2023-03-01,Free,Active,Technology,Asia Pacific
-CUST_0046,CloudNine Ltd 46,2024-05-17,Basic,Active,Healthcare,Europe
-CUST_0047,Eta Technologies 47,2023-09-21,Free,Active,Healthcare,Latin America
-CUST_0048,Alpha Ventures 48,2023-11-17,Basic,Active,Manufacturing,Latin America
-CUST_0049,Vertex Technologies 49,2023-02-19,Pro,Active,Technology,North America
-CUST_0050,DataFlow Systems 50,2024-11-26,Pro,Active,Manufacturing,Latin America
-CUST_0051,Gamma Industries 51,2024-04-06,Free,Active,Technology,Europe
-CUST_0052,Zeta Solutions 52,2023-12-14,Enterprise,Active,Finance,Europe
-CUST_0053,Delta Innovations 53,2023-04-11,Enterprise,Active,Technology,North America
-CUST_0054,Epsilon Corp 54,2023-01-18,Enterprise,Churned,Healthcare,North America
-CUST_0055,Eta Technologies 55,2023-06-13,Enterprise,Active,Retail,Europe
-CUST_0056,Alpha Ventures 56,2024-12-01,Free,Churned,Finance,Europe
-CUST_0057,Vertex Technologies 57,2023-08-15,Enterprise,Active,Finance,Latin America
-CUST_0058,Theta Analytics 58,2024-09-08,Basic,Active,Retail,North America
-CUST_0059,Kappa Corp 59,2024-08-03,Pro,Churned,Manufacturing,Europe
-CUST_0060,Eta Technologies 60,2023-10-09,Pro,Churned,Technology,Latin America
-CUST_0061,DataFlow Systems 61,2024-04-15,Basic,Churned,Technology,Europe
-CUST_0062,Acme Corp 62,2023-05-24,Basic,Active,Technology,North America
-CUST_0063,Zeta Solutions 63,2024-08-09,Basic,Active,Healthcare,Latin America
-CUST_0064,Global Solutions 64,2024-07-13,Basic,Active,Retail,Latin America
-CUST_0065,Alpha Ventures 65,2023-12-08,Free,Active,Retail,North America
-CUST_0066,DataFlow Systems 66,2023-06-17,Free,Active,Finance,Europe
-CUST_0067,Kappa Corp 67,2024-11-14,Basic,Active,Healthcare,Europe
-CUST_0068,DataFlow Systems 68,2023-09-27,Free,Active,Manufacturing,Europe
-CUST_0069,CloudNine Ltd 69,2023-05-27,Pro,Active,Manufacturing,Asia Pacific
-CUST_0070,Theta Analytics 70,2024-09-04,Free,Churned,Healthcare,North America
-CUST_0071,Beta Systems 71,2024-07-21,Free,Churned,Retail,Asia Pacific
-CUST_0072,Alpha Ventures 72,2024-04-23,Enterprise,Active,Technology,Asia Pacific
-CUST_0073,Eta Technologies 73,2024-11-24,Pro,Active,Technology,Asia Pacific
-CUST_0074,Fusion Dynamics 74,2024-05-25,Enterprise,Active,Manufacturing,Asia Pacific
-CUST_0075,DataFlow Systems 75,2023-06-03,Enterprise,Active,Healthcare,Asia Pacific
-CUST_0076,CloudNine Ltd 76,2023-04-14,Enterprise,Churned,Retail,Latin America
-CUST_0077,Acme Corp 77,2024-07-18,Free,Churned,Retail,Asia Pacific
-CUST_0078,Beta Systems 78,2024-03-05,Pro,Active,Manufacturing,Latin America
-CUST_0079,Gamma Industries 79,2023-12-07,Basic,Active,Manufacturing,Europe
-CUST_0080,Theta Analytics 80,2023-11-28,Enterprise,Churned,Technology,Asia Pacific
-CUST_0081,Kappa Corp 81,2024-08-19,Basic,Active,Technology,Europe
-CUST_0082,Kappa Corp 82,2023-09-15,Enterprise,Active,Retail,North America
-CUST_0083,Zeta Solutions 83,2023-07-18,Enterprise,Active,Finance,Europe
-CUST_0084,Acme Corp 84,2024-07-21,Basic,Active,Healthcare,North America
-CUST_0085,Acme Corp 85,2024-04-13,Basic,Active,Technology,Latin America
-CUST_0086,Acme Corp 86,2024-11-30,Pro,Churned,Technology,Asia Pacific
-CUST_0087,Vertex Technologies 87,2023-11-07,Free,Active,Manufacturing,Asia Pacific
-CUST_0088,Zeta Solutions 88,2023-11-22,Enterprise,Active,Finance,North America
-CUST_0089,TechStart Inc 89,2023-12-21,Enterprise,Churned,Healthcare,Asia Pacific
-CUST_0090,DataFlow Systems 90,2023-10-24,Pro,Churned,Finance,Europe
-CUST_0091,Acme Corp 91,2023-10-13,Basic,Active,Healthcare,Europe
-CUST_0092,Global Solutions 92,2024-03-17,Enterprise,Active,Technology,Latin America
-CUST_0093,Vertex Technologies 93,2024-10-09,Enterprise,Active,Manufacturing,Latin America
-CUST_0094,Kappa Corp 94,2023-11-08,Basic,Active,Finance,Latin America
-CUST_0095,Alpha Ventures 95,2023-04-04,Basic,Active,Healthcare,Europe
-CUST_0096,Acme Corp 96,2024-02-19,Free,Churned,Healthcare,Europe
-CUST_0097,Beta Systems 97,2023-12-08,Free,Churned,Technology,Asia Pacific
-CUST_0098,Vertex Technologies 98,2023-03-24,Basic,Active,Technology,North America
-CUST_0099,DataFlow Systems 99,2024-01-26,Enterprise,Churned,Manufacturing,Latin America
-CUST_0100,InnovateCo 100,2024-06-07,Pro,Active,Healthcare,Latin America
+CUST_0001,Acme Corp 1,2023-10-11,Free,Active,Manufacturing,Asia Pacific
+CUST_0002,TechStart Inc 2,2023-11-12,Enterprise,Active,Manufacturing,Asia Pacific
+CUST_0003,Global Solutions 3,2024-05-15,Enterprise,Active,Technology,Asia Pacific
+CUST_0004,DataFlow Systems 4,2023-07-22,Free,Active,Retail,Asia Pacific
+CUST_0005,CloudNine Ltd 5,2023-09-27,Basic,Churned,Finance,Asia Pacific
+CUST_0006,InnovateCo 6,2023-06-10,Pro,Active,Manufacturing,Latin America
+CUST_0007,Quantum Analytics 7,2024-11-13,Pro,Churned,Retail,Latin America
+CUST_0008,Vertex Technologies 8,2024-01-09,Enterprise,Active,Finance,Asia Pacific
+CUST_0009,Fusion Dynamics 9,2024-06-23,Enterprise,Active,Retail,Latin America
+CUST_0010,Alpha Ventures 10,2023-08-05,Pro,Active,Manufacturing,Europe
+CUST_0011,Beta Systems 11,2024-03-31,Free,Active,Manufacturing,Asia Pacific
+CUST_0012,Gamma Industries 12,2023-04-15,Enterprise,Active,Technology,Europe
+CUST_0013,Delta Innovations 13,2024-05-23,Pro,Churned,Retail,Asia Pacific
+CUST_0014,Epsilon Corp 14,2024-10-25,Basic,Active,Technology,Europe
+CUST_0015,Zeta Solutions 15,2023-05-18,Basic,Churned,Manufacturing,Europe
+CUST_0016,Eta Technologies 16,2024-03-31,Enterprise,Active,Manufacturing,North America
+CUST_0017,Theta Analytics 17,2023-11-06,Pro,Churned,Healthcare,Latin America
+CUST_0018,Iota Systems 18,2023-01-07,Free,Active,Manufacturing,Latin America
+CUST_0019,Kappa Corp 19,2023-04-18,Basic,Churned,Healthcare,North America
+CUST_0020,Lambda Innovations 20,2024-04-08,Free,Churned,Manufacturing,Europe
+CUST_0021,Zeta Solutions 21,2023-09-25,Free,Churned,Finance,North America
+CUST_0022,Alpha Ventures 22,2023-10-22,Enterprise,Active,Retail,North America
+CUST_0023,Alpha Ventures 23,2023-03-21,Pro,Active,Retail,Europe
+CUST_0024,Fusion Dynamics 24,2023-08-12,Free,Active,Healthcare,Latin America
+CUST_0025,Acme Corp 25,2024-07-24,Pro,Active,Manufacturing,North America
+CUST_0026,InnovateCo 26,2023-06-13,Free,Active,Retail,North America
+CUST_0027,Alpha Ventures 27,2023-09-17,Pro,Active,Healthcare,Europe
+CUST_0028,Global Solutions 28,2023-11-27,Free,Active,Technology,North America
+CUST_0029,Delta Innovations 29,2024-06-17,Enterprise,Active,Technology,Latin America
+CUST_0030,Vertex Technologies 30,2023-10-02,Enterprise,Active,Healthcare,Europe
+CUST_0031,Vertex Technologies 31,2023-03-15,Enterprise,Active,Healthcare,Latin America
+CUST_0032,Iota Systems 32,2024-09-07,Basic,Active,Healthcare,North America
+CUST_0033,DataFlow Systems 33,2023-09-10,Basic,Active,Manufacturing,North America
+CUST_0034,Theta Analytics 34,2024-09-02,Basic,Active,Healthcare,Asia Pacific
+CUST_0035,Epsilon Corp 35,2023-04-22,Basic,Active,Finance,North America
+CUST_0036,Lambda Innovations 36,2023-03-15,Basic,Active,Technology,Europe
+CUST_0037,Epsilon Corp 37,2024-03-08,Basic,Active,Healthcare,Asia Pacific
+CUST_0038,InnovateCo 38,2024-03-21,Pro,Active,Technology,Latin America
+CUST_0039,Acme Corp 39,2024-07-22,Free,Churned,Technology,North America
+CUST_0040,Kappa Corp 40,2024-06-23,Enterprise,Active,Retail,Asia Pacific
+CUST_0041,InnovateCo 41,2024-01-24,Pro,Active,Manufacturing,North America
+CUST_0042,Acme Corp 42,2024-04-29,Basic,Churned,Manufacturing,Latin America
+CUST_0043,Fusion Dynamics 43,2023-02-01,Free,Active,Retail,North America
+CUST_0044,Zeta Solutions 44,2024-11-17,Basic,Churned,Retail,Asia Pacific
+CUST_0045,Eta Technologies 45,2024-05-29,Enterprise,Active,Healthcare,Latin America
+CUST_0046,Epsilon Corp 46,2023-07-11,Enterprise,Active,Retail,Asia Pacific
+CUST_0047,Kappa Corp 47,2023-05-15,Enterprise,Churned,Finance,North America
+CUST_0048,Gamma Industries 48,2023-06-08,Pro,Active,Retail,Europe
+CUST_0049,Acme Corp 49,2023-03-08,Free,Active,Finance,Europe
+CUST_0050,Vertex Technologies 50,2023-12-20,Free,Active,Healthcare,Europe
+CUST_0051,Quantum Analytics 51,2023-04-04,Enterprise,Active,Manufacturing,North America
+CUST_0052,CloudNine Ltd 52,2024-10-10,Enterprise,Churned,Retail,Latin America
+CUST_0053,Theta Analytics 53,2024-11-24,Enterprise,Active,Healthcare,Europe
+CUST_0054,InnovateCo 54,2023-01-18,Enterprise,Churned,Healthcare,North America
+CUST_0055,Delta Innovations 55,2024-03-11,Free,Active,Finance,Europe
+CUST_0056,CloudNine Ltd 56,2023-07-09,Basic,Active,Retail,Europe
+CUST_0057,TechStart Inc 57,2024-06-07,Enterprise,Active,Finance,North America
+CUST_0058,Eta Technologies 58,2023-12-25,Pro,Churned,Healthcare,North America
+CUST_0059,Alpha Ventures 59,2023-07-05,Basic,Churned,Finance,Europe
+CUST_0060,Lambda Innovations 60,2023-08-09,Basic,Active,Healthcare,Latin America
+CUST_0061,Delta Innovations 61,2023-05-07,Free,Active,Retail,Latin America
+CUST_0062,Gamma Industries 62,2023-09-06,Free,Active,Retail,Asia Pacific
+CUST_0063,Theta Analytics 63,2024-07-16,Pro,Active,Finance,Europe
+CUST_0064,Quantum Analytics 64,2023-08-30,Free,Active,Finance,Asia Pacific
+CUST_0065,Iota Systems 65,2023-12-13,Enterprise,Active,Manufacturing,North America
+CUST_0066,Zeta Solutions 66,2023-05-09,Basic,Active,Technology,Europe
+CUST_0067,Acme Corp 67,2023-08-23,Free,Active,Retail,North America
+CUST_0068,DataFlow Systems 68,2024-04-24,Pro,Active,Manufacturing,Latin America
+CUST_0069,Zeta Solutions 69,2024-05-18,Pro,Active,Technology,Latin America
+CUST_0070,Alpha Ventures 70,2024-08-09,Enterprise,Active,Finance,Asia Pacific
+CUST_0071,Fusion Dynamics 71,2023-02-20,Enterprise,Active,Retail,North America
+CUST_0072,Quantum Analytics 72,2023-09-25,Pro,Active,Manufacturing,Asia Pacific
+CUST_0073,Fusion Dynamics 73,2023-07-24,Pro,Churned,Technology,Asia Pacific
+CUST_0074,Gamma Industries 74,2023-09-08,Pro,Active,Finance,Europe
+CUST_0075,DataFlow Systems 75,2023-08-29,Enterprise,Churned,Manufacturing,Europe
+CUST_0076,Iota Systems 76,2023-11-29,Free,Active,Manufacturing,North America
+CUST_0077,Beta Systems 77,2024-11-14,Enterprise,Active,Retail,Latin America
+CUST_0078,Kappa Corp 78,2024-07-29,Free,Active,Technology,Asia Pacific
+CUST_0079,Theta Analytics 79,2023-12-21,Pro,Active,Manufacturing,North America
+CUST_0080,Eta Technologies 80,2024-01-04,Pro,Churned,Retail,Europe
+CUST_0081,Alpha Ventures 81,2024-05-16,Enterprise,Active,Healthcare,North America
+CUST_0082,Theta Analytics 82,2024-03-31,Free,Active,Retail,North America
+CUST_0083,Theta Analytics 83,2024-01-18,Pro,Active,Healthcare,Latin America
+CUST_0084,InnovateCo 84,2024-09-07,Free,Active,Healthcare,Asia Pacific
+CUST_0085,Fusion Dynamics 85,2023-05-23,Pro,Churned,Healthcare,Latin America
+CUST_0086,Delta Innovations 86,2023-06-23,Enterprise,Active,Healthcare,Asia Pacific
+CUST_0087,Vertex Technologies 87,2023-12-29,Free,Active,Healthcare,Europe
+CUST_0088,Alpha Ventures 88,2024-04-21,Basic,Churned,Technology,Europe
+CUST_0089,Lambda Innovations 89,2024-02-17,Enterprise,Active,Retail,Europe
+CUST_0090,CloudNine Ltd 90,2023-08-17,Pro,Churned,Retail,Asia Pacific
+CUST_0091,Delta Innovations 91,2024-04-10,Basic,Active,Healthcare,North America
+CUST_0092,Vertex Technologies 92,2023-10-07,Free,Active,Healthcare,Asia Pacific
+CUST_0093,Theta Analytics 93,2024-02-21,Pro,Active,Healthcare,North America
+CUST_0094,Kappa Corp 94,2023-03-11,Enterprise,Active,Technology,Latin America
+CUST_0095,Delta Innovations 95,2024-02-03,Pro,Active,Healthcare,Latin America
+CUST_0096,Beta Systems 96,2023-02-17,Basic,Active,Retail,North America
+CUST_0097,Vertex Technologies 97,2023-08-27,Basic,Active,Healthcare,Asia Pacific
+CUST_0098,Gamma Industries 98,2024-07-29,Enterprise,Active,Technology,Latin America
+CUST_0099,Epsilon Corp 99,2023-12-29,Basic,Active,Manufacturing,Latin America
+CUST_0100,Kappa Corp 100,2023-10-28,Basic,Active,Technology,North America

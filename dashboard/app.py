@@ -201,7 +201,9 @@ def display_kpi_metrics(dashboard):
     
     with col2:
         active = active_customers['COUNT'].iloc[0] if not active_customers.empty else 80
-        st.metric("Active Customers", f"{active:,.0f}", delta=f"{(active/customers*100):.1f}%")
+        # Calculate retention rate, avoid division by zero
+        retention_pct = (active / customers * 100) if customers > 0 else 0
+        st.metric("Active Customers", f"{active:,.0f}", delta=f"{retention_pct:.1f}%")
     
     with col3:
         revenue = total_revenue['TOTAL'].iloc[0] if not total_revenue.empty else 125000

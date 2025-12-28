@@ -1,5 +1,6 @@
 # Snowflake connectors and data processing
-snowflake-connector-python>=3.6.0
+# Using patched version to fix SQL injection vulnerability in write_pandas
+snowflake-connector-python>=3.13.1
 snowflake-snowpark-python>=1.11.0
 
 # Data processing

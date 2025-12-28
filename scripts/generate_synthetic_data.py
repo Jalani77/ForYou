@@ -37,9 +37,15 @@ def generate_customers():
         signup_days = random.randint(0, 700)
         signup_date = (base_date + timedelta(days=signup_days)).strftime("%Y-%m-%d")
         
+        # Generate customer name - cycle through predefined names or create variations
+        if i <= len(CUSTOMER_NAMES):
+            customer_name = f"{CUSTOMER_NAMES[i-1]} {i}"
+        else:
+            customer_name = f"{random.choice(CUSTOMER_NAMES)} {i}"
+        
         customer = {
             "customer_id": f"CUST_{i:04d}",
-            "name": f"{random.choice(CUSTOMER_NAMES)} {i}" if i > len(CUSTOMER_NAMES) else f"{CUSTOMER_NAMES[i-1] if i <= len(CUSTOMER_NAMES) else CUSTOMER_NAMES[0]} {i}",
+            "name": customer_name,
             "signup_date": signup_date,
             "tier": random.choice(TIERS),
             "status": random.choice(STATUSES),
